@@ -8,6 +8,7 @@ on:
     branches:
       - main
       - releases/*
+      - dependabot/npm_and_yarn/braces-3.0.3
     paths-ignore:
       - '**.md'
 
